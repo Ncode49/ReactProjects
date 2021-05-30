@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <div>
+      Test
       <Binaire/>
     </div>
   );
